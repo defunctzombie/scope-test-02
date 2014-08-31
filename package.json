@@ -1,7 +1,7 @@
 {
   "name": "regular-name",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
-    "@defunctzombie/scope-test-01": "0.0.1"
+    "@defunctzombie/scope-test-01": "0.0.2"
   }
 }
